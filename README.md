@@ -17,6 +17,9 @@
 
 <a href="https://testnets.opensea.io/assets/rinkeby/0xe176e139317b5a981e9143c426d5257b1647991e/0"><img  src="https://ipfs.filebase.io/ipfs/bafybeihyvhgbcov2nmvbnveunoodokme5eb42uekrqowxdennt2qyeculm" height="350px"></a>
 
+- Week1 Proof of Knowledge (Kudos NFT): [https://rarible.com/token/polygon/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6:583](https://rarible.com/token/polygon/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6:583)
+
+
 ## week2
 
 - Network: Goerli
@@ -24,6 +27,7 @@
 - Owner address: 0x228241e137C7E75ffB6F65648c4c2Fc92ED7cEb9
 - Repl.it project: https://replit.com/@alejoacosta74/BuyMeACoffee-Solidity-DeFi-Tipping-app
 - Live Repl.it site: https://buymeacoffee-solidity-defi-tipping-app.alejoacosta74.repl.co/
+- Week2 Proof of Knowledge (Kudos NFT): [https://rarible.com/token/polygon/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6:611](https://rarible.com/token/polygon/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6:611)
 
 ## week3
 
@@ -33,3 +37,5 @@
 - NFT minted on Opensea: https://testnets.opensea.io/assets/mumbai/0x4bfd1dfe0ac9a5e06603caded667427b59a55c1c/1
 
 <a href="https://testnets.opensea.io/assets/mumbai/0x4bfd1dfe0ac9a5e06603caded667427b59a55c1c/1"><img src="https://openseauserdata.com/files/3077a1440c4d7be82f38b1ccbef8030b.svg" height="350px"></a>
+
+- Week3 Proof of Knowledge (Kudos NFT): [https://rarible.com/token/polygon/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6:674](https://rarible.com/token/polygon/0x60576a64851c5b42e8c57e3e4a5cf3cf4eeb2ed6:674)
